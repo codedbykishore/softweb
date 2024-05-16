@@ -169,7 +169,7 @@ web.html
         </div>
     </form>
 
-    <h1>WELCOME TO HARI TECH</h1>
+    <h1>WELCOME TO KISHORE TECH</h1>
     <h2>one of the most trusted and valuble company</h2>
     <h2>PRODUCTS</h2>
     <a href="sign.html">
@@ -197,7 +197,7 @@ web.html
 
 </body>
 <footer style="background-color:darkmagenta;margin-top: 230; border: none;">
-    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by Hariharan A 23012392 </P>
+    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by KISHORE B 212223240073 </P>
 </footer>
 </html>
 
@@ -303,7 +303,7 @@ about.html
     <img src="sivakarthi.jpeg" height="200" width="200">
 </div>
 <div CLASS="names">
-    <P>HARIHARAN A</P>    
+    <P>KISHORE A</P>    
     <P style="margin-left:-20;">MR VIJAY</P>    
     <P>MR Ajith</P>    
     <P>MR Surya</P>    
@@ -323,7 +323,7 @@ about.html
 </DIV>
 </body>
 <footer style="background-color:darkmagenta;margin-top: 230; border: none;">
-    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by HARIHARAN A 23012392</P>
+    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by KISHORE B 212223240073</P>
 </footer>
 </html>
 ```
@@ -477,7 +477,7 @@ sign.html
 </div>
 </body>
 <footer style="background-color:darkmagenta; margin-top: 125px;border: none;">
-    <P style="color:#ffffff ;"align="center">Designed and Devoloped by Hariharan A 23012392 </P>
+    <P style="color:#ffffff ;"align="center">Designed and Devoloped by KISHORE B 212223240073 </P>
 </footer>
 </html>
 ```
@@ -638,14 +638,14 @@ border:2px solid white;
         <p >Poonamallee Post</p>
         <p >Chennai-600056</p>
         <b >Email:</b>
-        <p >hariharana59@gmail.com</p>
+        <p >kishore@gmail.com</p>
         <b >Phone</b>
         <p >9360167882</p>
     </center>
     </div>
 </body>
 <footer style="background-color:darkmagenta;margin-top: 210px; border: none;">
-    <P style="color:#ffffff ;"align="center">Designed and Devoloped by HARIHARAN A 23012392 </P>
+    <P style="color:#ffffff ;"align="center">Designed and Devoloped by KISHORE B 212223240073 </P>
 </footer>
 </html>
 ```
@@ -730,7 +730,7 @@ products.html
     </center>
     </body>
     <footer style="background-color:darkmagenta;margin-top: 150; border: none;">
-        <P style="color:#ffffff; ;"align="center">Designed and Devoloped by HARIHARAN A 23012392</P>
+        <P style="color:#ffffff; ;"align="center">Designed and Devoloped by KISHORE B 212223240073</P>
     </footer>
 </html>
 ```
