@@ -737,12 +737,13 @@ products.html
 
 ## OUTPUT:
 
-
-![output](2.png)
-
+![2](https://github.com/codedbykishore/softweb/assets/147139122/a7220010-82b0-4b74-8146-d3f934986e30)
 
 
-![output](4.png)
+![5](https://github.com/codedbykishore/softweb/assets/147139122/8d921631-3d4b-4a6a-a370-f888ba2c5214)
+
+
+
 
 
 
